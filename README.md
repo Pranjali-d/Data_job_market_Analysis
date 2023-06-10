@@ -12,11 +12,11 @@ This project focuses on different data profiles and their associated metrics in 
 ![architecture](https://github.com/Pranjali-d/Data_job_market_Analysis/assets/49934575/3f8e00dc-8733-4079-83ca-e89bcd3f9f6f)
 
 ## Preview  
-Home Page  
+<b> Home Page  </b>
 ![image](https://github.com/Pranjali-d/Data_job_market_Analysis/assets/49934575/477f8c3e-573e-4fcb-82ec-00ae14dd0943)
   
 
-Jobs Page  
+<b> Jobs Page  </b>
 ![image](https://github.com/Pranjali-d/Data_job_market_Analysis/assets/49934575/08ec4deb-dfa7-4440-ac01-5aa19a647a26)  
 This page gives a full overview of data job metrics with set of filters configurable to genrate following insights:
 1- What is the average years of experience for each position level?  
@@ -31,7 +31,7 @@ This page gives a full overview of data job metrics with set of filters configur
 10- What is the number of job postings for each job position level?  
  
 
-Skills Page  
+<b> Skills Page </b>  
 ![image](https://github.com/Pranjali-d/Data_job_market_Analysis/assets/49934575/9b94f620-3ee3-4b18-81c2-d844a425133f)    
 This page gives a full overview of data job metrics with set of filters configurable to genrate following insights:  
 1- What are the most popular skills?  
@@ -41,7 +41,7 @@ This page gives a full overview of data job metrics with set of filters configur
 5- What is the number of jobs in which each skill was mentioned?  
 6- What is the distribution of skills for each job title?  
   
-Companies Page
+<b> Companies Page </b>
 ![image](https://github.com/Pranjali-d/Data_job_market_Analysis/assets/49934575/3016aa6a-53ae-410e-9508-86bedfe48907)  
 This page gives a full overview of data job metrics with set of filters configurable to genrate following insights:  
 1- What is the average number of jobs for each company industry?  
