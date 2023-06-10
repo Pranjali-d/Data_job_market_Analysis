@@ -1,8 +1,16 @@
 # Data Jobs Analysis
-A full interactive and dynamic Power BI dashboard for analysing the top 5 most common data related jobs in the job market. 
+![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) 
+![Excel](https://img.shields.io/badge/Microsoft%20Excel-217346.svg?style=for-the-badge&logo=Microsoft-Excel&logoColor=white) 
 
 
-## Overview    
+## Overview  
+This project focuses on different data profiles and their associated metrics in the job market , performing exploratory data analysis to generate insights and visualize them with the help of Power BI.
+
+
+## Architecture  
+![architecture](https://github.com/Pranjali-d/Data_job_market_Analysis/assets/49934575/3f8e00dc-8733-4079-83ca-e89bcd3f9f6f)
+
+## Preview  
 Home Page  
 ![image](https://github.com/Pranjali-d/Data_job_market_Analysis/assets/49934575/477f8c3e-573e-4fcb-82ec-00ae14dd0943)
   
